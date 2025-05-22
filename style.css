@@ -2,12 +2,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f9f9f9;
+    background-color: #87e2bf;
 }
 
 header {
-    background-color: #4caf50;
-    color: white;
+    background-color: #d4bb28;
+    color: rgb(19, 50, 187);
     padding: 10px 20px;
 }
 
@@ -22,7 +22,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: rgb(14, 103, 126);
     text-decoration: none;
 }
 
@@ -31,9 +31,9 @@ section {
 }
 
 .evento {
-    background-color: white;
+    background-color: rgb(158, 79, 79);
     border-radius: 8px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 5px rgba(96, 80, 100, 0.1);
     margin-bottom: 20px;
     padding: 15px;
 }
@@ -46,12 +46,12 @@ footer {
     text-align: center;
     padding: 10px;
     background-color: #4caf50;
-    color: white;
+    color: rgb(46, 214, 68);
 }
 
 #galeria {
     padding: 20px;
-    background-color: #f9f9f9; /* Cor de fundo suave */
+    background-color: #5d3fe4; /* Cor de fundo suave */
 }
 
 .galeria-imagens {
@@ -65,7 +65,7 @@ footer {
     height: auto; /* Mantém a proporção */
     margin-bottom: 15px; /* Espaço abaixo das imagens */
     border-radius: 8px; /* Bordas arredondadas */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Sombra leve para efeito visual */
+    box-shadow: 0 2px 5px rgba(38, 50, 224, 0.1); /* Sombra leve para efeito visual */
 }
 
 @media (max-width: 768px) {
@@ -81,7 +81,7 @@ footer {
 }
 #feira-produtos {
     padding: 20px;
-    background-color: #ffffff; /* Cor de fundo branca */
+    background-color: #e24c4c; /* Cor de fundo branca */
 }
 
 .feira-imagens {
@@ -95,7 +95,7 @@ footer {
     height: auto; /* Mantém a proporção */
     margin-bottom: 15px; /* Espaço abaixo das imagens */
     border-radius: 8px; /* Bordas arredondadas */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Sombra leve para efeito visual */
+    box-shadow: 0 2px 5px rgba(26, 210, 216, 0.1); /* Sombra leve para efeito visual */
 }
 
 @media (max-width: 768px) {
